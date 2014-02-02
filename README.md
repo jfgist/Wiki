@@ -1,2 +1,15 @@
 Wiki
 ====
+
+Just a place to store some ideas, scripts and todo lists.
+
+
+Stuff to have on all Pi's
+
+* TP-LINK driver
+* bluez (and related stuff for blepi)
+* Email IP address (http://www.sbprojects.com/projects/raspberrypi/scripts.php)
+
+TODO
+* Add Driver(s) to soundboard Pi
+* Add Driver(s) to third card
