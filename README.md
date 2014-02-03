@@ -13,3 +13,4 @@ Stuff to have on all Pi's
 TODO
 * Add Driver(s) to soundboard Pi
 * Add Driver(s) to third card
+* Create shortcuts for each of the programs running on the RPi (Motivator, blepi) http://www.raspberry-projects.com/pi/pi-operating-systems/raspbian/gui/desktop-shortcuts
