@@ -8,6 +8,7 @@ Stuff to have on all Pi's
 
 * TP-LINK driver
 * bluez (and related stuff for blepi)
+* pexpect
 * Email IP address (http://www.sbprojects.com/projects/raspberrypi/scripts.php)
 * vncserver (install and setup with good resolution)
 
