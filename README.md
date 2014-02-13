@@ -17,3 +17,7 @@ TODO
 * Add Driver(s) to third card
 * Add shutdown button on pi's http://spaceblogs.org/flipdot/2013/06/shut-down-your-raspberry-pi-on-button-press-and-add-reset-function/
 * Create shortcuts for each of the programs running on the RPi (Motivator, blepi) http://www.raspberry-projects.com/pi/pi-operating-systems/raspbian/gui/desktop-shortcuts
+
+Project Ideas
+* Add Humidity and UI to blepi
+* Install TiddlyWiki on a pi
