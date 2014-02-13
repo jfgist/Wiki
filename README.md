@@ -20,4 +20,4 @@ TODO
 
 Project Ideas
 * Add Humidity and UI to blepi
-* Install TiddlyWiki on a pi
+* Install TiddlyWiki on a pi (http://www.designspark.com/blog/building-a-personal-microcontent-server-with-raspberry-pi)
